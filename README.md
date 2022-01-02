@@ -5,8 +5,7 @@
 Submitted by: *Amari Coffee**
 
 Time spent: ** 6 ** hours spent in total
-
-## User Stories
+Link for GIF: https://media.giphy.com/media/zMLcKRQR11gYpOmTh0/giphy.gif
 
 The following **required** functionality is complete:
 
